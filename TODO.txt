@@ -1,0 +1,4 @@
+* conditions (elif, else)
+* for loops
+* (builtin) functions
+* file object
